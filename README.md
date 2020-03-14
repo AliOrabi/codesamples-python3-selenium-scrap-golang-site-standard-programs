@@ -1,5 +1,5 @@
 # codesamples-python3-selenium-scrap-golang-site-standard-programs
-Python 3.x Selenium Chrome driver scrapping the Playground page with Standard Programs moved from main page from Go language web site using custom programs provided
+Python 3.x Selenium Chrome driver scrapping the Playground page with Standard Programs moved from main page from Go language web site 
 # Description
 Python script attempt to scrap Playground page from Golang site https://play.golang.org/ 
 using the test programs located in goprograms folder. 
