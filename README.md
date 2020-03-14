@@ -3,9 +3,9 @@ Python 3.x Selenium Chrome driver scrapping the Playground page with Standard Pr
 # Description
 Python script attempt to scrap Playground page from Golang site https://play.golang.org/ 
 using the test programs located in goprograms folder. 
-# Purpose
-To demonstrate the ability to create Web site scrapping scripts on Python 3.x using Selenium
-And to honour another Great progrmming language - Go - https://golang.org/
+# Purposes
+1) To demonstrate the ability to create Web site scrapping scripts on Python 3.x using Selenium
+2) To honour the Great progrmming language - Go - https://golang.org/
 # Requirements
 Python 3.x - Python 3.6 recommended
 Selenium, Chrome WebDriver
