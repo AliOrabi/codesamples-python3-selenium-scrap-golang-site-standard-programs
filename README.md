@@ -23,8 +23,8 @@ On Ubuntu Ubuntu 18.04.4 LTS
 10) [in Terminal] cd /usr/bin
 11) [in Terminal] chmod a+x chromedriver
 # How to run?
-1) python3 PythonToGo.py to display help - e.g. the list of the standard example programs from https://golang.org/ with descriptions for you to choose
-2) python3 PythonToGo.py hello to run the script featuring the example mentioned on https://golang.org/ site
+1) ```python3 PythonToGoStandardPrograms.py``` to display help - e.g. the list of the standard example programs from https://golang.org/ with descriptions for you to choose
+2) ```python3 PythonToGoStandardPrograms.py``` hello to run the script featuring the example mentioned on https://golang.org/ site
 # Notes
 1) examples loacated in goprograms folder
 2) please do not write comaplex and huge Go lang progarams, since the scrapper using the Playground from Go lang site, to spare some resources there for others and for the site itself
