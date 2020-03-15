@@ -61,7 +61,6 @@ class seleniumGoSiteParser():
 			return returned
 		except Exception as e:
 			#formatted string literal(f-string) output for Python 3.6+: https://docs.python.org/3/reference/lexical_analysis.html#formatted-string-literals
-			raise
 			print(f"Selenium Web Driver Instance Error: {str(e)}")
 
 def main():
